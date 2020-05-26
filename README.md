@@ -1,0 +1,2 @@
+# shop
+moia magazin
